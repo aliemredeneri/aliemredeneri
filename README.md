@@ -12,12 +12,14 @@
 - 📫 How to reach me: ali.emre.deneri@gmail.com
 **- 😄 Pronouns: he/him
 **- ⚡ Fun fact: ...
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliemredeneri&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 
 
 ## <div align="center">Hi there 👋 I am Ali Emre Deneri! 👨‍💻</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliemredeneri&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
